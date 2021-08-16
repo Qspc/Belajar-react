@@ -8,3 +8,6 @@
 bedanya production dan development
 - jika production file js nya sudah di kompress
 - jika development semua muncul jadi masih bisa dibaca
+
+# Babel
+merupakan tools compiler berbasis JS yg bisa merubah semua code sehingga bisa ditampilkan oleh browser
