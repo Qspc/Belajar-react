@@ -8,14 +8,17 @@
 </head>
 <body>
     <div id="container">
+        
     </div>
     
     
     <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
     <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 
-    <script>
-        const heading = React.createElement("h1", null, "Hello world");
+
+    <script type="text/babel">
+        const heading = <h1>Hello</h1>
         ReactDOM.render(heading, document.getElementById('container'))
     </script>
 
