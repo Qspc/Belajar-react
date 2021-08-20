@@ -17,6 +17,6 @@ cara mudahnya kalian bisa copy kodingan html tersebut ke website https://babeljs
 # Percobaan akses API menggunakan React
 task yang dibutuhkan :
 - akses kode api
-- aplikasi postman
+- aplikasi postman -> apl untuk menjalankan endpoint2/rute url terkait aplikasi tsb
 - nodejs
 API yg dipakai dari movie database (https://developers.themoviedb.org/3/getting-started/introduction)
